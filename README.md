@@ -1,2 +1,2 @@
-# Tinkoff_homeroks
+# Tinkoff_homeworks
 homeworks for tinkoff generation (ML course)
